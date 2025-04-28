@@ -1,5 +1,5 @@
 # Logistic Regression - Student Exam Prediction
-#(Scroll down for Arabic Version) (مرر للأسفل للوصول إلى النسخة العربية)
+## (Scroll down for Arabic Version) (مرر للأسفل للوصول إلى النسخة العربية)
 
 This project uses Logistic Regression to predict whether a student will **pass** or **fail** an exam based on the number of study hours.  
 The data is normalized using `StandardScaler` to improve model performance.
